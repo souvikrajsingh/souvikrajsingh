@@ -50,7 +50,7 @@
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
 <br />
-  <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Souvik's github stats" />
 
 <!-- <br> -->
 <!-- <img align="left" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh" /> -->

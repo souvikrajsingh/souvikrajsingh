@@ -19,6 +19,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 
 
+<br />
 
 ### Languages and Tools:
 
@@ -50,8 +51,6 @@
 
 <br />
   <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&hide_border=true" />
-
-<br />
 
 <img align="left" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh" />
 

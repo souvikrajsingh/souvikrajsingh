@@ -51,7 +51,9 @@
 <br />
   <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&hide_border=true" />
 <br/>
+<br />
 <img align="left" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh" />
+<br />
 
 
 [twitter]: https://twitter.com/souvikrajsingh

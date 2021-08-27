@@ -50,10 +50,10 @@
 
 <br />
   <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&hide_border=true" />
-<br/>
+<br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh)
-[twitter]: https://twitter.com/souvikrajsingh
 
+[twitter]: https://twitter.com/souvikrajsingh
 [instagram]: https://instagram.com/souvikrajsingh
 [quora]: https://www.quora.com/profile/Souvik-Raj-Singh
 [linkedin]: https://www.linkedin.com/in/souvik-raj-singh-9650bb187/

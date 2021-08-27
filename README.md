@@ -97,7 +97,7 @@
 <!-- [youtube]: https://youtube.com/codeSTACKr -->
 [instagram]: https://instagram.com/souvikrajsingh
 [quora]: https://www.quora.com/profile/Souvik-Raj-Singh
-[linkedin]: https://linkedin.com/souvikrajsingh
+[linkedin]: https://www.linkedin.com/in/souvik-raj-singh-9650bb187/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt -->
 <!-- [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B -->
 <!-- [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4 -->

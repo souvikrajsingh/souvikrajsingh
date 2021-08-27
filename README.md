@@ -37,7 +37,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh)
 - [Most Preffered method of time management 🤓 ☝🏽](https://www.quora.com/What-is-your-preferred-method-of-time-management-and-why/answer/Souvik-Raj-Singh)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus)
 - [How to use Notion as a techy 👽](https://www.quora.com/How-do-you-take-the-most-out-of-productivity-tools-and-which-ones-do-you-recommend)
 
@@ -51,8 +50,8 @@
 
 <br />
   <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&hide_border=true" />
-
-
+<br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh)
 [twitter]: https://twitter.com/souvikrajsingh
 
 [instagram]: https://instagram.com/souvikrajsingh

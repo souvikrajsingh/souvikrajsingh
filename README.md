@@ -49,11 +49,9 @@
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
 <br />
-(https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&theme=radical)
-
-  <!-- <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
-<br />
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh) -->
+  <img align="left" alt="souvikrajsingh's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&hide_border=true" />
+<br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh)
 
 [twitter]: https://twitter.com/souvikrajsingh
 [instagram]: https://instagram.com/souvikrajsingh

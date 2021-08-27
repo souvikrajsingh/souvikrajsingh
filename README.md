@@ -1,12 +1,13 @@
-### Hi there, I'm Souvik 👋
+### Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Souvik 
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh)
 
-## I'm a Student, Father, Developer, and Teacher!!
+## I'm a Sophomore, pursuing my Bachelors in Computer Science & Engineering.  !!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute to Open Source projects
+- 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, and Devops
 - ⚡ Fun fact: I love Working out and reading books
 
 ### Connect with me:
@@ -20,6 +21,7 @@
 <br />
 
 ### Languages and Tools:
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]

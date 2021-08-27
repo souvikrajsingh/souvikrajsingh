@@ -51,9 +51,9 @@
   <!-- <summary>:zap: GitHub Stats</summary> -->
 
 <br />
-<img align="center" width=85% src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
 
-<img align= "center" width = 85% src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
+<img align= "center" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
     </td>
 <!-- <br> -->
 <!-- <img align="left" alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=souvikrajsingh.souvikrajsingh" /> -->

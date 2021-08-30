@@ -68,7 +68,7 @@
 
 <!-- Contribution graph  -->
 
-<img align= "center" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
+<!-- <img align= "center" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />  -->
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvikrajsingh)](https://github.com/souvikrajsingh) -->
 

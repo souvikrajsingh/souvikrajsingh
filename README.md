@@ -42,8 +42,11 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh)
+
 - [Most Preffered method of time management 🤓 ☝🏽](https://www.quora.com/What-is-your-preferred-method-of-time-management-and-why/answer/Souvik-Raj-Singh)
+
 - [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus)
+
 - [How to use Notion as a techy 👽](https://www.quora.com/How-do-you-take-the-most-out-of-productivity-tools-and-which-ones-do-you-recommend)
 
 <!-- BLOG-POST-LIST:END -->

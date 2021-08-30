@@ -2,6 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=souvikrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="souvikrajsingh" /> </p>
 
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh)
+
+
 ### I'm a Sophomore, pursuing my Bachelors in Computer Science & Engineering!
 
 - 🌱 I’m currently learning everything 🤣

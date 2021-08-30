@@ -1,5 +1,5 @@
 <h1 align ="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Souvik</h1>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=souvikrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="souvikrajsingh" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh)
 

@@ -8,8 +8,11 @@
 ### I'm a Sophomore, pursuing my Bachelors in Computer Science & Engineering!
 
 - 🌱 I’m currently learning everything 🤣
+
 - 🥅 2021 Goals: Contribute to Open Source projects
+
 - 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, and Devops
+
 - ⚡ Fun fact: I love Working out and reading books
 
 ### Connect with me:

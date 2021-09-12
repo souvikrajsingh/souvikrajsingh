@@ -14,7 +14,7 @@
 
 - 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, and Devops
 
-- ⚡ Fun fact: I love Working out and reading book
+- ⚡ Fun fact: I love Working out and reading books
 
 ### Connect with me:
 

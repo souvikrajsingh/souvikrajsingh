@@ -64,7 +64,7 @@
 <!-- Github stats  -->
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=souvikrajsingh&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="souvikrajsingh" /> </p>
 
 <br />

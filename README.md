@@ -1,4 +1,4 @@
-<h1 align ="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Souvik</h1>
+<h1 align ="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Anshu</h1>
 
 
 
@@ -8,21 +8,18 @@
 
 ### I'm a Sophomore, pursuing my Bachelors in Computer Science & Engineering!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently DSA 
 
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 👨🏽‍💻 I'm Passionate about Web Dev and Devops
 
-- 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, and Devops
-
-- ⚡ Fun fact: I love Working out and reading books
 
 ### Connect with me:
 
 
-[<img align="left" alt="souvikrajsingh | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="souvikrajsingh | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="souvikrajsingh | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="souvikrajsingh | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="anshupriya | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<!-- [<img align="left" alt="anshupriya | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+<!-- [<img align="left" alt="anshupriya | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora] -->
 
 <br/>
 <br />
@@ -39,20 +36,20 @@
 
 <br />
 
-### 📕 Latest Quora Posts
+<!-- ### 📕 Latest Quora Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh)
+<!-- - [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh) -->
 
-- [Most Preffered method of time management 🤓 ☝🏽](https://www.quora.com/What-is-your-preferred-method-of-time-management-and-why/answer/Souvik-Raj-Singh)
+<!-- - [Most Preffered method of time management 🤓 ☝🏽](https://www.quora.com/What-is-your-preferred-method-of-time-management-and-why/answer/Souvik-Raj-Singh) -->
 
-- [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus)
+<!-- - [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus) -->
 
-- [How to use Notion as a techy 👽](https://www.quora.com/How-do-you-take-the-most-out-of-productivity-tools-and-which-ones-do-you-recommend)
+<!-- - [How to use Notion as a techy 👽](https://www.quora.com/How-do-you-take-the-most-out-of-productivity-tools-and-which-ones-do-you-recommend) -->
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more Quora posts...](https://www.quora.com/profile/Souvik-Raj-Singh)
+<!-- ➡️ [more Quora posts...](https://www.quora.com/profile/Souvik-Raj-Singh) -->
 
 ---
 
@@ -60,26 +57,26 @@
 
 <br />
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/anshu?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/anshupriya&screen_name=anshupriya) -->
 <!-- Github stats  -->
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+<img align="center"  src="https://github-readme-stats.vercel.app/api?username=1anshu-56&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Anshu's github stats" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="souvikrajsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1anshu-56&label=Profile%20views&color=0e75b6&style=flat" alt="anshupriya" /> </p>
 
 <br />
 
-<!-- Contribution graph  -->
+Contribution graph 
 
-<!-- <img align= "center" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />  -->
+<img align= "center" src="https://activity-graph.herokuapp.com/graph?username=1anshu-56&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" /> 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=souvikrajsingh)](https://github.com/souvikrajsingh) -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1anshu-56)](https://github.com/1anshu-56)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikrajsingh&layout=compact)](https://github.com/souvikrajsingh) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1anshu-56&layout=compact)](https://github.com/1anshu-56)
 
 <!-- references -->
 
-[twitter]: https://twitter.com/souvikrajsingh
-[instagram]: https://instagram.com/souvikrajsingh
-[quora]: https://www.quora.com/profile/Souvik-Raj-Singh
-[linkedin]: https://www.linkedin.com/in/souvik-raj-singh-9650bb187/
+[twitter]: https://twitter.com/Anshu__Priya
+<!-- [instagram]: https://instagram.com/anshupriya -->
+<!-- [quora]: https://www.quora.com/profile/Souvik-Raj-Singh -->
+[linkedin]: https://www.linkedin.com/in/anshu-p-9a0674200/

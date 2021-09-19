@@ -63,7 +63,30 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh)
 <!-- Github stats  -->
 
-<img align="center"  src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+
+  <table>
+    <tr>
+      <td align="center">
+        <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
+    </tr>
+  </table></h1>
+    <table>
+    <tr>
+      <td align="left">
+        <img width="500" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+      </td>
+    </td>
+  <td align="right">
+      <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikrajsingh&show_icons=true&theme=tokyonight" />
+</td>
+  </tr>
+  </table>
+  
+
+
+
+
+<!-- <img align="center"  src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" /> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvikrajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="souvikrajsingh" /> </p>
 

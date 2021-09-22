@@ -57,7 +57,7 @@
 ---
 
   <!-- <summary>:zap: GitHub Stats</summary> -->
-
+<br/>
 <br />
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh)

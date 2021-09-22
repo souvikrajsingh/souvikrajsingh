@@ -74,13 +74,13 @@
       <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikrajsingh&show_icons=true&theme=tokyonight" />
 </td>
   </tr>
-  </table>
+<!--   </table>
   <table>
     <tr>
       <td align="center">
         <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />
     </tr>
-  </table></h1>
+  </table></h1> -->
   
 
 

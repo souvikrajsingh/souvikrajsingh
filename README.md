@@ -24,7 +24,6 @@
 [<img align="left" alt="souvikrajsingh | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="souvikrajsingh | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 
-<br/>
 <br />
 
 ### Languages and Tools:

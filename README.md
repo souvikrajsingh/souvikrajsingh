@@ -10,7 +10,7 @@
 
 - 🌱 I am currently learning front-end development and DSA
 
-- 🥅 2022: Contribute to Open Source
+- 🥅 2022 Goal: Contribute to Open Source
 
 - 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, Open Source, and Devops
 

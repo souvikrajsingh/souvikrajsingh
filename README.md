@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning everything 🤣
 
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 I am currently learning front-end development and DSA
 
-- 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, and Devops
+- 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, Open Source, and Devops
 
 - ⚡ Fun fact: I love Working out and reading books
 

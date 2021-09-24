@@ -8,9 +8,9 @@
 
 ### I'm a Sophomore, pursuing my Bachelors in Computer Science & Engineering!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I am currently learning front-end development and DSA
 
-- 🥅 I am currently learning front-end development and DSA
+- 🥅 2022: Contribute to Open Source
 
 - 👨🏽‍💻 I'm Passionate about Web Dev, Mobile dev, Open Source, and Devops
 

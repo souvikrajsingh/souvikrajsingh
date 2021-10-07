@@ -64,9 +64,7 @@
 
 ![header_](https://user-images.githubusercontent.com/81793119/136334163-a603b18a-5b7a-4529-93f0-6cb28073b9d6.png)
 
-
-  
-   <table>
+<table>
     <tr>
       <td align="left">
         <img width="500" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
@@ -76,8 +74,9 @@
       <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikrajsingh&show_icons=true&theme=tokyonight" />
 </td>
   </tr>
-<!--   </table>
-  <table>
+  </table>
+
+<!--   <table>
     <tr>
       <td align="center">
         <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=souvikrajsingh&show_icons=true&count_private=true&theme=rogue&area=true&hide_border=true" />

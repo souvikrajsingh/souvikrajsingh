@@ -47,7 +47,6 @@
 
 - [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus)
 
-- [How to use Notion as a techy 👽](https://www.quora.com/How-do-you-take-the-most-out-of-productivity-tools-and-which-ones-do-you-recommend)
 
 <!-- BLOG-POST-LIST:END -->
 

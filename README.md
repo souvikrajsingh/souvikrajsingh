@@ -65,17 +65,18 @@
 
 
 
-<table>
+ <img width="500" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+<!-- <table>
     <tr>
       <td align="left">
-        <img width="500" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+       
       </td>
     </td>
   <td align="right">
       <img width="500%" src="https://github-readme-streak-stats.herokuapp.com/?user=souvikrajsingh&show_icons=true&theme=tokyonight" />
 </td>
   </tr>
-  </table>
+  </table> -->
 
 <!--   <table>
     <tr>

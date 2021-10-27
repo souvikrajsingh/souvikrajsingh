@@ -38,19 +38,25 @@
 
 <br />
 
-### 📕 Latest Quora Posts
+### 📕 Latest Blog Posts
+
+[Contributing to Open-Source is EASY! 😵](https://souvikrajsingh.hashnode.dev/contributing-to-open-source-is-easy)
+
+<br>
+
+<!-- ### 📕 Latest Quora Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh)
+<!-- - [How to use the 52-17 rule effectively ⚡](https://www.quora.com/How-can-I-use-the-52-17-rule-effectively-in-my-studies/answer/Souvik-Raj-Singh)
 
 - [Most Preffered method of time management 🤓 ☝🏽](https://www.quora.com/What-is-your-preferred-method-of-time-management-and-why/answer/Souvik-Raj-Singh)
 
-- [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus)
+- [How to increase Productivity 👨🏽‍💻 and focus](https://www.quora.com/How-do-you-increase-productivity-and-focus) -->
 
 
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END --> -->
 
-➡️ [more Quora posts...](https://www.quora.com/profile/Souvik-Raj-Singh)
+➡️ [more blog posts...](https://hashnode.com/@souvikrajsingh)
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/souvikrajsingh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/souvikrajsingh&screen_name=souvikrajsingh) -->
 

@@ -12,7 +12,7 @@
 
 - 🥅 2022 Goal: Contribute to Open Source
 
-- 👨🏽‍💻 I'm Passionate about App Dev, Mobile dev, Open Source, and Devops
+- 👨🏽‍💻 I'm Passionate about App Dev, Web dev, Open Source, and Devops
 
 <!-- - ⚡ Fun fact: I love Working out and reading books -->
 

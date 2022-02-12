@@ -41,6 +41,7 @@
 ### 📕 Latest Blog Posts
 
 [Contributing to Open-Source is EASY! 😵](https://souvikrajsingh.hashnode.dev/contributing-to-open-source-is-easy)
+[How do you increase productivity and focus?📔](https://qr.ae/pGjk9z)
 
 <br>
 

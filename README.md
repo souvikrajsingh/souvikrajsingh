@@ -40,11 +40,13 @@
 
 ### 📕 Latest Blog Posts
 
-[Hacktoberfest ](https://dev.to/souvikrajsingh/get-your-1-pr-merged-for-hacktoberfest-today-gd0)
+[Hacktoberfest ⚡](https://dev.to/souvikrajsingh/get-your-1-pr-merged-for-hacktoberfest-today-gd0)
 
 [Contributing to Open-Source is EASY! 😵](https://souvikrajsingh.hashnode.dev/contributing-to-open-source-is-easy)
 
 [How do you increase productivity and focus?📔](https://qr.ae/pGjkad)
+
+[Student program you should definitely know about 🙌🏽](https://souvikrajsingh.hashnode.dev/student-program-you-should-definitely-know-about)
 
 <br>
 

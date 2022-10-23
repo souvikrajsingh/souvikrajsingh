@@ -21,8 +21,8 @@
 
 [<img align="left" alt="souvikrajsingh | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="souvikrajsingh | LinkedIn" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="souvikrajsingh | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="souvikrajsingh | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+<!-- -[<img align="left" alt="souvikrajsingh | Instagram" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="souvikrajsingh | Twitter" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora] -->
 
 <br />
 <!-- 

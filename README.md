@@ -4,7 +4,7 @@
 
 <div align="center">
   
-I am currently in my Junior year pursuing Computer Science and Engineering. I am passionate about Open Source Development and DeveOps.
+I am currently in my Junior year pursuing Computer Science and Engineering. I am passionate about Open Source Development and DevOps.
   
   I am learning and sharing what i pick up on my way through my blogs 
 <br>

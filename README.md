@@ -14,6 +14,10 @@ I am currently in my Junior year pursuing Computer Science and Engineering. I am
 <!-- Hashnode Blogs Starts -->
 ### My Latest Blog Posts 👇
 
+<a href="https://souvikrajsingh.hashnode.dev/dutch-national-flag-algorithm" title="Dutch National Flag Algorithm"><img width="500" alt="student programs" src="https://user-images.githubusercontent.com/81793119/200118001-f5f834ec-2ccf-49e1-a6c4-00690426f3d2.png"><br><strong>Dutch National Flag Algorithm</strong></a>
+<br/>Dutch National flag Algorithm was proposed by Edsger Dijkstra <br>a Dutch Computer Scientist!It's a sorting algorithm with the complexity of O(n)<br>
+Click on the link to read everything about it <br/>
+
 <a href="https://souvikrajsingh.hashnode.dev/student-program-you-should-definitely-know-about" title="5 Student Programs to apply Today"><img width="500" alt="student programs" src="https://user-images.githubusercontent.com/81793119/198825137-39e6dc4c-5b18-405d-9904-c19d45d8d3ec.png"><br><strong>5 Student Programs to apply Today</strong></a>
 <br/>Here are the list of 5 best Student programs offered by Top tech companies like<br>Google, Microsoft and Amazon! These programs provide good networking opportunites,<br>learning, mentorship and much more Read the blog to find out.. <br/>
 

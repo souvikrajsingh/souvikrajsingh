@@ -37,8 +37,8 @@ Click on the link to read everything about it <br/>
 <br>
 
 <!-- Github stats  -->
- <img width="500" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
-
+<!--  <img width="500" src="https://github-readme-stats.vercel.app/api?username=souvikrajsingh&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Souvik's github stats" />
+ -->
 
 
 

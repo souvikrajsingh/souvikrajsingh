@@ -1,6 +1,6 @@
 [![github banner -souvik](https://user-images.githubusercontent.com/81793119/198823624-6e957568-e6fe-4fb9-96b0-d75ceae4fd18.png)](https://twitter.com/intent/follow?screen_name=souvikrajsingh)
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=souvikrajsingh" target="blank"><img src="https://img.shields.io/twitter/follow/souvikrajsingh?logo=twitter&style=for-the-badge" alt="souvikstwt"/></a></p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=souvikstwt" target="blank"><img src="https://img.shields.io/twitter/follow/souvikstwt?logo=twitter&style=for-the-badge" alt="souvikstwt"/></a></p>
 
 <div align="center">
   

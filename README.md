@@ -4,9 +4,12 @@
 
 <div align="center">
   
-I am currently in my Junior year pursuing Computer Science and Engineering. I am passionate about Open Source Development and DevOps.
+I am currently in my Junior year pursuing Computer Science and Engineering. I am passionate about Web Development, Open Source Development and DevOps.
   
   I am learning and sharing what i pick up on my way through my blogs 
+
+check out my Portfolio : https://www.souvikrajsingh.me/
+
 <br>
 
 </div>
